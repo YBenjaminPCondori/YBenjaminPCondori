@@ -5,19 +5,22 @@ My first public contributions during university. Today, I’m focused on creatin
 
 ### 🎯 Current Project: Multi-Modal Occupancy Monitoring System using Conv1D and Naive Bayes Classifier Data Compression
 
-**iSpy** is a final year project, based on the research conducted by Prof. Tatiana Kalganova and completing Individual Project
+**iSpy** is my final year capstone project, inspired by the research of Prof. Tatiana Kalganova and completed as part of the *Individual Project* module.
 
-#### 🚀 Key Features:
-- Detecting Occupancy
-- 
-- 
-- 
-- 
-
-
-[🔗 Check out iSpy(#) <!-- Replace # with your actual repo/project link -->
+The system fuses time-series sensor data and thermal imagery to detect room occupancy with high accuracy, using lightweight machine learning models optimized for edge deployment.
 
 ---
+
+### 🚀 Key Features:
+- Multi-sensor fusion (temperature, gas, humidity, thermal IR)
+- Conv1D CNN-based time-series analysis
+- Infrared thermal camera integration
+- Naive Bayes-based data compression pipeline
+- Real-time occupancy detection and alerting
+- Edge-optimized deployment (Raspberry Pi)
+
+[🔗 Check out iSpy](#) <!-- Replace # with your GitHub repo/project link -->
+
 
 ### 🧠 Tech Stack
 

@@ -21,11 +21,7 @@ My first public contributions during university. Today, I’m focused on creatin
 
 ### 🧠 Tech Stack
 
-`HTML5` `CSS3` `JavaScript` `React` `Node.js` 
-`Embedded C` `Assembler` 
-`Python` `C++` `Java` `VHDL` `Verilog`
-`Visual Basic` `Figma` `Markdown` `Draw.io`  
-`OBS Studio` `GitHub` `WordPress`  
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **OS:** Windows | Raspbian OS | macOS
 

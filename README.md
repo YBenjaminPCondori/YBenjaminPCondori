@@ -5,7 +5,7 @@ My first public contributions during university. Today, I’m focused on creatin
 
 ### 🎯 Current Project: Multi-Modal Occupancy Monitoring System using Conv1D and Naive Bayes Classifier Data Compression
 
-**iSpy** is my final year capstone project, inspired by the research of Prof. Tatiana Kalganova and completed as part of the *Individual Project* module.
+**iSpy** is my final year project, inspired by the research of Prof. Tatiana Kalganova and completed as part of the *Individual Project* module.
 
 The system fuses time-series sensor data and thermal imagery to detect room occupancy with high accuracy, using lightweight machine learning models optimized for edge deployment.
 
@@ -29,6 +29,7 @@ The system fuses time-series sensor data and thermal imagery to detect room occu
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,9 +43,9 @@ The system fuses time-series sensor data and thermal imagery to detect room occu
 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

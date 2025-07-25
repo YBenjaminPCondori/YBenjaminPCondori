@@ -1,4 +1,4 @@
-# Welcome, Bienvenido, Huanying - Benjamin's Portfolio
+# Welcome, Bienvenido, to Benjamin's GitHub
 
 I love creating Hardware, Software, and designing systems, - new to Machine Learning and learning more about its use cases!
 

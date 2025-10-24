@@ -1,10 +1,10 @@
 # Welcome, Bienvenido, to Benjamin's GitHub
 
-I love creating Hardware, Software, and designing systems, - new to Machine Learning and learning more about its use cases!
+I love learning new concepts and subjects, espeically in Software, Data, Machine Learning and Hardware!
 
-Not necessarily just pressing buttons on a computer keyboard, although I don't mind playing the keyboard if you'd like! 
+Not good for just pressing buttons on a computer keyboard, I also play the keyboard if you'd like! 
 
-Today, I’m focused on creating systems that bridge the gap between hardware and intelligent software. Whether that’s in embedded systems, edge AI, or open-source.
+Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 
 ### 🎯 Current Project: Multi-Modal Occupancy Monitoring System using Conv1D and Naive Bayes Classifier Data Compression
 
@@ -24,16 +24,26 @@ This project, uses lightweight machine learning models (Conv1D CNN) optimized fo
 - Real-time occupancy detection and alerting
 - Edge-optimized deployment (Raspberry Pi)
 
-[🔗 Check out iSpy](https://github.com/YBenjaminPCondori/Machine-Learning-Gen-AI/tree/main/Occupancy-Monitoring-Conv1D-System-with-Gaussian-Data-Compression) 
+[🔗 Check out the Project](https://github.com/YBenjaminPCondori/Machine-Learning-Gen-AI/tree/main/Occupancy-Monitoring-Conv1D-System-with-Gaussian-Data-Compression) 
 
 
-### Software 
+### Software
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### Data/Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ### Web/Wordpress
 
@@ -43,13 +53,13 @@ This project, uses lightweight machine learning models (Conv1D CNN) optimized fo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Hardware
+### Hardware/Embedded
 
 ![Verilog](https://img.shields.io/badge/Verilog-003B6F?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge)
 ![Assembler](https://img.shields.io/badge/Assembler-4B0082?style=for-the-badge)
 
-### Design/Content
+### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)

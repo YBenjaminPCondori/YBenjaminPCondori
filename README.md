@@ -6,25 +6,7 @@ Not good for just pressing buttons on a computer keyboard, I also play the keybo
 
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 
-### 🎯 Current Project: Multi-Modal Occupancy Monitoring System using Conv1D and Naive Bayes Classifier Data Compression
 
-This had started out as my Dissertation (Final Year Project), inspired by the research, and support of Prof. Tatiana Kalganova and completed as part of the *Individual Project* module.
-
-The system is designed, to utilize time-series sensor data, and only display occupancy levels on a binary format (0, 1). 
-In order to increase the use cases, thermal imagery to detect room occupancy, with high accuracy and not restricted to binary. 
-This project, uses lightweight machine learning models (Conv1D CNN) optimized for low-power systems, i.e. deployment on the Edge either on a built-in Linux OS, or on the firmware using C++ (Debian Linux OS: in this case).
-
----
-
-### 🚀 Key Features:
-- Multi-sensor fusion (Temperature, Gas, Humidity, Infrared camera)
-- Conv1D CNN-based time-series analysis
-- Infrared thermal camera integration
-- Naive Bayes-based data compression pipeline
-- Real-time occupancy detection and alerting
-- Edge-optimized deployment (Raspberry Pi)
-
-[🔗 Check out the Project](https://github.com/YBenjaminPCondori/Machine-Learning-Gen-AI/tree/main/Occupancy-Monitoring-Conv1D-System-with-Gaussian-Data-Compression) 
 
 
 ### Software

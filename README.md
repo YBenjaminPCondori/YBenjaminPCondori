@@ -1,7 +1,6 @@
-# Welcome, Bienvenido, to my GitHub
+# Bienvenido, 欢迎, Welcome to my Repo
 
-I love learning new concepts and subjects, especially:
-
+Interests:
 Governance
 Automation
 Embedded Systems
@@ -27,7 +26,6 @@ Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
 
 ### Web/Wordpress
 

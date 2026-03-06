@@ -1,15 +1,17 @@
-# Welcome, Bienvenido, to Benjamin's GitHub
+# Welcome, Bienvenido, to my GitHub
 
-I love learning new concepts and subjects, espeically in Software, Data, Machine Learning and Hardware!
+I love learning new concepts and subjects, especially:
 
-Not good for just pressing buttons on a computer keyboard, I also play the keyboard if you'd like! 
+Governance
+Automation
+Embedded Systems
+Applied AI SW/HW
 
-Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
+Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
+Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 
 
-
-
-### Software
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,7 +19,7 @@ Today, I’m focused on creating systems that bridge the gap between hardware an
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### Data/Machine Learning
+### ML/Data Tools and Libraries
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -40,12 +42,6 @@ Today, I’m focused on creating systems that bridge the gap between hardware an
 ![Verilog](https://img.shields.io/badge/Verilog-003B6F?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge)
 ![Assembler](https://img.shields.io/badge/Assembler-4B0082?style=for-the-badge)
-
-### Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ### Tools and Operating Systems
 

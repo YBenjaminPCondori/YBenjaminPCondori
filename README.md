@@ -16,10 +16,6 @@ Embedded Systems
 Applied AI SW/HW
 
 <br>
-<br>
-<br>
-<br>
-
 
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
 Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.

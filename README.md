@@ -24,6 +24,18 @@ Applied AI SW/HW
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
 Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Programming Languages
 

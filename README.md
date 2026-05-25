@@ -10,7 +10,7 @@ Making ideas to reality, without breaking your bank or shoot up credits, bills.
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
 Whether that’s in making a copycat of a Ring device, 
 
-Currently, looking at how to make backend engines in C++, but seriously sucking ass rn. Maybe, i'll try making a robot that reads my emails, and reacts when an email comes
+Currently, looking at making an AI Detector for Songs, but damn theres so many ways to trick the system. Please don't make a Music Humanizer or my thesis is cooked.
 
 <br>
 

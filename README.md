@@ -1,7 +1,10 @@
 # Hello, Ni Hao, Namaste, Hola and Bonjour
 <br>
 
+Autistic Programmer, literally.
+
 Interests:
+<br>
 Making ideas to reality, without breaking your bank or shoot up credits, bills.
 
 <br>

@@ -24,7 +24,7 @@ Currently, looking at making an AI Detector for Songs, but damn theres so many w
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <br>
-![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
+![C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
 <br>
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 

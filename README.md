@@ -1,4 +1,4 @@
-# Hello, Ni Hao, Hola and Bonjour
+# Hello, Ni Hao, Namaste, Hola and Bonjour
 <br>
 
 Interests:

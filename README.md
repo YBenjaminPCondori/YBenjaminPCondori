@@ -76,5 +76,5 @@ Currently, looking at making an AI Detector for Songs, but damn theres so many w
 
 ### 📬 Let's Keep in Touch
 
-Feel free to connect or collaborate via [LinkedIn] (https://www.linkedin.com/in/ybenpc/)  
-Or shoot me an email: y.benjamin_pc@hotmail.com
+
+Shoot me an email: y.benjamin_pc@hotmail.com if you wanna talk about music, tech, or how roobots are weird and quirky

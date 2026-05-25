@@ -3,12 +3,14 @@
 <br>
 
 Interests:
-Making ideas to reality, without breaking your bank or shoot up credits, bills
+Making ideas to reality, without breaking your bank or shoot up credits, bills.
 
 <br>
 
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
-Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
+Whether that’s in making a copycat of a Ring device, 
+
+Currently, looking at how to make backend engines in C++, but seriously sucking ass rn. Maybe, i'll try making a robot that reads my emails, and reacts when an email comes
 
 <br>
 

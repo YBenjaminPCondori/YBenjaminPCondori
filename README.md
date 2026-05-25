@@ -1,36 +1,15 @@
-# Bienvenido, 欢迎, Welcome to my Repo
+# Hello, humans.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 Interests:
-Governance
-Automation
-Embedded Systems
-Applied AI SW/HW
+Making ideas to reality, without breaking your bank or shoot up credits, bills
 
 <br>
 
 Today, I’m focused on creating systems that bridge the gap between hardware and intelligent systems. 
 Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ### Programming Languages
@@ -41,7 +20,7 @@ Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-0A192F?style=for-the-badge)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### ML/Data Tools and Libraries
+### Python LIbraries
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -50,7 +29,7 @@ Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Web/Wordpress
+### Web/Internet
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,13 +37,13 @@ Whether that’s in Machine Learning algorithsm, Edge AI, or Embedded Systems.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### Hardware/Embedded
+### Hardware/On-Prem
 
 ![Verilog](https://img.shields.io/badge/Verilog-003B6F?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=for-the-badge)
 ![Assembler](https://img.shields.io/badge/Assembler-4B0082?style=for-the-badge)
 
-### Tools and Operating Systems
+### IDEs and OS
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)

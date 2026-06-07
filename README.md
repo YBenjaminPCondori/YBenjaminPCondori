@@ -1,7 +1,7 @@
 # Hello, Ni Hao, Namaste, Hola and Bonjour
 <br>
 
-Autistic Programmer, literally.
+Engineer
 
 Interests:
 <br>
